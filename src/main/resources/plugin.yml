@@ -1,0 +1,6 @@
+name: FarmProtector
+version: '${project.version}'
+main: net.daechler.farmprotector.FarmProtector
+api-version: 1.19
+authors: [Daechler]
+description: Protect your farms from these steppers.
